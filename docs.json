@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Another Horizon Wiki",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -14,7 +14,7 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Introduction",
             "pages": [
               "index",
               "quickstart",
@@ -22,10 +22,10 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Licenses",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "licenses/settings",
+              "licenses/navigation"
             ]
           },
           {
@@ -72,12 +72,12 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "href": "https://wiki.another-horizon.eu/",
           "icon": "book-open-cover"
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://blog.another-horizon.eu",
           "icon": "newspaper"
         }
       ]
@@ -91,13 +91,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:hello@another-horizon.eu"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://another-horizon.eu"
     }
   },
   "contextual": {
